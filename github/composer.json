@@ -1,0 +1,17 @@
+{
+    "name": "nowakjeste/github",
+    "description": "GitHub search API integration",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Piotr Nowak",
+            "email": "peet@null.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4",
+        "laravel/framework": "7.*",
+    }
+}
